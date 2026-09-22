@@ -1,5 +1,13 @@
 # 🖼️ Novara Inventory Images
 
+## Kleidungsitems für ox_inventory
+
+Die 14 neuen `images/clothing_*.png` decken Kopfbedeckung, Maske, Brille, Ohrringe, Oberteil, Unterhemd, Arme/Handschuhe, Hose, Schuhe, Tasche, Kette, Weste, Uhr und Armband ab. Herkunft und Generierung stehen in [NOVARA-CLOTHING-ARTWORK.md](NOVARA-CLOTHING-ARTWORK.md).
+
+Das Inventar lädt `https://raw.githubusercontent.com/novorarp/fivem-inventoryimages/main/images/<itemname>.png`. Für bestehende ox-IDs gilt der exakte Name einschließlich Groß-/Kleinschreibung und Bindestrichen: `WEAPON_PISTOL.png`, `ammo-9.png`. Diese Kompatibilitätsfälle sind Ausnahmen von der allgemeinen Namenskonvention unten. Neue Kleidungs-IDs verwenden `clothing_<category>`.
+
+Das Inventar lädt die Bilder im Spiel über die CDN-URL dieses Repositories. Die lokale Browser-Vorschau verwendet gebündelte Kopien derselben Assets.
+
 > Die zentrale Bildbibliothek für Inventory-Items von **Novara**.
 
 Dieses Repository sammelt und verwaltet die Grafiken, die für Items in unseren Inventar-Systemen verwendet werden. Eine einheitliche Benennung sorgt dafür, dass jedes Bild zuverlässig über seine Item-ID gefunden werden kann.
