@@ -1,0 +1,812 @@
+[
+  {
+    "id": "apple",
+    "title": "Organic-ish Apple",
+    "file": "apple.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F34E.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F34E"
+  },
+  {
+    "id": "babyshot",
+    "title": "Baby Shot",
+    "file": "babyshot.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F354.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F354"
+  },
+  {
+    "id": "banditpeanuts",
+    "title": "Salted Bandit Peanuts",
+    "file": "banditpeanuts.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F95C.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F95C"
+  },
+  {
+    "id": "beans",
+    "title": "Canned Bean Surprise",
+    "file": "beans.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1FAD8.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1FAD8"
+  },
+  {
+    "id": "beefjerky",
+    "title": "Slaughterhouse Jerky",
+    "file": "beefjerky.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F354.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F354"
+  },
+  {
+    "id": "benedict",
+    "title": "Benedict Pale Ale",
+    "file": "benedict.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F37A.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F37A"
+  },
+  {
+    "id": "blainebourbon",
+    "title": "Blaine County Bourbon",
+    "file": "blainebourbon.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F376.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F376"
+  },
+  {
+    "id": "blarneys",
+    "title": "Blarneys Irish Lager",
+    "file": "blarneys.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F37A.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F37A"
+  },
+  {
+    "id": "bleederbucket",
+    "title": "Bleeder Bucket",
+    "file": "bleederbucket.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F357.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F357"
+  },
+  {
+    "id": "bleedinwhiskey",
+    "title": "Bleedin’ Whiskey",
+    "file": "bleedinwhiskey.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F376.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F376"
+  },
+  {
+    "id": "boxwine",
+    "title": "Budget Box Wine",
+    "file": "boxwine.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F377.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F377"
+  },
+  {
+    "id": "bread",
+    "title": "Loaf of Bread",
+    "file": "bread.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F35E.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F35E"
+  },
+  {
+    "id": "bs_fries",
+    "title": "Burger Shot Fries",
+    "file": "bs_fries.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F35F.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F35F"
+  },
+  {
+    "id": "bs_shake",
+    "title": "Thick Shake",
+    "file": "bs_shake.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F95B.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F95B"
+  },
+  {
+    "id": "bs_toy",
+    "title": "Kid’s Meal Toy",
+    "file": "bs_toy.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F9F8.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F9F8"
+  },
+  {
+    "id": "cb_bbq",
+    "title": "BBQ Sauce",
+    "file": "cb_bbq.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F963.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F963"
+  },
+  {
+    "id": "cb_ranch",
+    "title": "Cluckin’ Ranch",
+    "file": "cb_ranch.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F357.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F357"
+  },
+  {
+    "id": "cheesecrackle",
+    "title": "Cheese Crackle Bites",
+    "file": "cheesecrackle.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F9C0.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F9C0"
+  },
+  {
+    "id": "cheesesticks",
+    "title": "Cheesy Bread Sticks",
+    "file": "cheesesticks.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F9C0.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F9C0"
+  },
+  {
+    "id": "cherenkovchips",
+    "title": "Cherenkov Chips",
+    "file": "cherenkovchips.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F35F.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F35F"
+  },
+  {
+    "id": "chickenburger",
+    "title": "Cluckin’ Big Burger",
+    "file": "chickenburger.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F354.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F354"
+  },
+  {
+    "id": "chickentenders",
+    "title": "Tenders (6pc)",
+    "file": "chickentenders.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F357.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F357"
+  },
+  {
+    "id": "chickenwings",
+    "title": "Hot Wings (6pc)",
+    "file": "chickenwings.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F357.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F357"
+  },
+  {
+    "id": "chiliadrum",
+    "title": "Mount Chiliad Spiced Rum",
+    "file": "chiliadrum.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F376.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F376"
+  },
+  {
+    "id": "cluckinfries",
+    "title": "Cluckin’ Fries",
+    "file": "cluckinfries.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F35F.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F35F"
+  },
+  {
+    "id": "cluckinsalad",
+    "title": "Cluckin’ Salad",
+    "file": "cluckinsalad.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F357.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F357"
+  },
+  {
+    "id": "cornuts",
+    "title": "Cornuts Snack Mix",
+    "file": "cornuts.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F964"
+  },
+  {
+    "id": "coyoteteq",
+    "title": "Coyote Tequila",
+    "file": "coyoteteq.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F376.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F376"
+  },
+  {
+    "id": "dancer1",
+    "title": "Fufu",
+    "file": "dancer1.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F483.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F483"
+  },
+  {
+    "id": "dancer2",
+    "title": "Juliet",
+    "file": "dancer2.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F483.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F483"
+  },
+  {
+    "id": "dancer3",
+    "title": "Sapphire",
+    "file": "dancer3.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F483.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F483"
+  },
+  {
+    "id": "dancer4",
+    "title": "Peach",
+    "file": "dancer4.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F483.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F483"
+  },
+  {
+    "id": "dancer5",
+    "title": "Chastity",
+    "file": "dancer5.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F483.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F483"
+  },
+  {
+    "id": "dancer6",
+    "title": "Nikki",
+    "file": "dancer6.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F483.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F483"
+  },
+  {
+    "id": "debonaire",
+    "title": "Debonaire Cigarettes",
+    "file": "debonaire.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F6AC.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F6AC"
+  },
+  {
+    "id": "desperadogold",
+    "title": "Desperado Gold Tequila",
+    "file": "desperadogold.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F376.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F376"
+  },
+  {
+    "id": "doublecheese",
+    "title": "Double Cheese",
+    "file": "doublecheese.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F6D2.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F6D2"
+  },
+  {
+    "id": "duschegold",
+    "title": "Dusche Gold",
+    "file": "duschegold.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F37A.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F37A"
+  },
+  {
+    "id": "ecola",
+    "title": "eCola",
+    "file": "ecola.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F964"
+  },
+  {
+    "id": "ecola_large",
+    "title": "Large eCola",
+    "file": "ecola_large.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F964"
+  },
+  {
+    "id": "ecola_light",
+    "title": "eCola Light",
+    "file": "ecola_light.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F964"
+  },
+  {
+    "id": "ecola2l",
+    "title": "2L eCola",
+    "file": "ecola2l.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F964"
+  },
+  {
+    "id": "ecolamixer",
+    "title": "eCola Mixer",
+    "file": "ecolamixer.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F964"
+  },
+  {
+    "id": "egochaser",
+    "title": "EgoChaser Bar",
+    "file": "egochaser.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F36B.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F36B"
+  },
+  {
+    "id": "fustercluck",
+    "title": "Fustercluck Meal",
+    "file": "fustercluck.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F357.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F357"
+  },
+  {
+    "id": "garlicbread",
+    "title": "Garlic Bread",
+    "file": "garlicbread.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F9C4.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F9C4"
+  },
+  {
+    "id": "goldenfizz",
+    "title": "Golden Fizz Champagne",
+    "file": "goldenfizz.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F37E.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F37E"
+  },
+  {
+    "id": "heartstopper",
+    "title": "Heart Stopper",
+    "file": "heartstopper.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F354.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F354"
+  },
+  {
+    "id": "libcitygin",
+    "title": "Liberty City Dry Gin",
+    "file": "libcitygin.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F376.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F376"
+  },
+  {
+    "id": "lighter",
+    "title": "Disposable Lighter",
+    "file": "lighter.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F525.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F525"
+  },
+  {
+    "id": "logger",
+    "title": "Logger Beer",
+    "file": "logger.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F37A.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F37A"
+  },
+  {
+    "id": "lotto",
+    "title": "Scratch Lotto Ticket",
+    "file": "lotto.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F39F.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F39F"
+  },
+  {
+    "id": "lspremiumvodka",
+    "title": "LS Premium Vodka",
+    "file": "lspremiumvodka.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F376.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F376"
+  },
+  {
+    "id": "meteorite",
+    "title": "Meteorite Bar",
+    "file": "meteorite.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F36B.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F36B"
+  },
+  {
+    "id": "milk",
+    "title": "2% Dairy-ish Milk",
+    "file": "milk.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F95B.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F95B"
+  },
+  {
+    "id": "moneyshot",
+    "title": "Money Shot",
+    "file": "moneyshot.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F354.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F354"
+  },
+  {
+    "id": "northernvodka",
+    "title": "Northern Lights Vodka",
+    "file": "northernvodka.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F376.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F376"
+  },
+  {
+    "id": "onionrings",
+    "title": "Onion Rings",
+    "file": "onionrings.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F9C5.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F9C5"
+  },
+  {
+    "id": "orangotang",
+    "title": "Orang-O-Tang Juice",
+    "file": "orangotang.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F964"
+  },
+  {
+    "id": "pisswasser",
+    "title": "Pißwasser Beer",
+    "file": "pisswasser.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F37A.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F37A"
+  },
+  {
+    "id": "pisswasser_bs",
+    "title": "Pißwasser (Can)",
+    "file": "pisswasser_bs.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F37A.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F37A"
+  },
+  {
+    "id": "pisswasser_light",
+    "title": "Pißwasser Light",
+    "file": "pisswasser_light.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F37A.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F37A"
+  },
+  {
+    "id": "pisswasser6",
+    "title": "Pißwasser 6-Pack",
+    "file": "pisswasser6.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F37A.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F37A"
+  },
+  {
+    "id": "pizza_bleeder",
+    "title": "The Bleeder",
+    "file": "pizza_bleeder.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F355.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F355"
+  },
+  {
+    "id": "pizza_chiliad",
+    "title": "Mount Chiliad Monster",
+    "file": "pizza_chiliad.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F355.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F355"
+  },
+  {
+    "id": "pizza_hawaiian",
+    "title": "Hawaiian Special",
+    "file": "pizza_hawaiian.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F355.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F355"
+  },
+  {
+    "id": "pizza_margherita",
+    "title": "Margherita",
+    "file": "pizza_margherita.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F355.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F355"
+  },
+  {
+    "id": "pizza_meatlover",
+    "title": "Meat Lover’s",
+    "file": "pizza_meatlover.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F354.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F354"
+  },
+  {
+    "id": "pizza_mystery",
+    "title": "Mystery Topping",
+    "file": "pizza_mystery.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F355.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F355"
+  },
+  {
+    "id": "pizza_pepperoni",
+    "title": "Pepperoni Feast",
+    "file": "pizza_pepperoni.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F355.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F355"
+  },
+  {
+    "id": "pizza_pisswasser",
+    "title": "Pißwasser Pie",
+    "file": "pizza_pisswasser.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F355.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F355"
+  },
+  {
+    "id": "pizza_veggie",
+    "title": "Veggie Delight",
+    "file": "pizza_veggie.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F355.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F355"
+  },
+  {
+    "id": "premojito",
+    "title": "Pre-Mixed Mojito Can",
+    "file": "premojito.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F964"
+  },
+  {
+    "id": "psandqs",
+    "title": "P’s & Q’s Candy",
+    "file": "psandqs.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F36B.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F36B"
+  },
+  {
+    "id": "rageenergy",
+    "title": "RaGe Energy Drink",
+    "file": "rageenergy.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F964"
+  },
+  {
+    "id": "ranchdip",
+    "title": "Ranch Dip",
+    "file": "ranchdip.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F963.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F963"
+  },
+  {
+    "id": "redwood",
+    "title": "Redwood Cigarettes",
+    "file": "redwood.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F377.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F377"
+  },
+  {
+    "id": "rockfordred",
+    "title": "Rockford Hill Red",
+    "file": "rockfordred.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F377.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F377"
+  },
+  {
+    "id": "ronsgin",
+    "title": "Ron’s Reserve Gin",
+    "file": "ronsgin.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F376.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F376"
+  },
+  {
+    "id": "rustydonuts",
+    "title": "Rusty Brown’s Donuts",
+    "file": "rustydonuts.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F369.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F369"
+  },
+  {
+    "id": "sa_beef_tower",
+    "title": "Beef Tower",
+    "file": "sa_beef_tower.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F354.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F354"
+  },
+  {
+    "id": "sa_heartstopper",
+    "title": "Heart Stopper",
+    "file": "sa_heartstopper.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F354.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F354"
+  },
+  {
+    "id": "sa_meat_stack",
+    "title": "Meat Stack",
+    "file": "sa_meat_stack.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F354.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F354"
+  },
+  {
+    "id": "sa_moneyshot",
+    "title": "Money Shot",
+    "file": "sa_moneyshot.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F354.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F354"
+  },
+  {
+    "id": "sprunk",
+    "title": "Sprunk",
+    "file": "sprunk.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F964"
+  },
+  {
+    "id": "sprunk_bs",
+    "title": "Sprunk (Can)",
+    "file": "sprunk_bs.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F964"
+  },
+  {
+    "id": "sprunk_large",
+    "title": "Large Sprunk",
+    "file": "sprunk_large.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F964"
+  },
+  {
+    "id": "sprunkmix",
+    "title": "Sprunk Mix",
+    "file": "sprunkmix.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F964"
+  },
+  {
+    "id": "vinewoodrose",
+    "title": "Vinewood Hills Rosé",
+    "file": "vinewoodrose.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F377.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F377"
+  },
+  {
+    "id": "whiskeycola",
+    "title": "Whiskey Cola Can",
+    "file": "whiskeycola.png",
+    "source": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
+    "license": "CC BY-SA 4.0",
+    "attribution": "OpenMoji",
+    "iconCode": "1F964"
+  }
+]

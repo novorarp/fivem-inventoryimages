@@ -1,0 +1,362 @@
+[
+  {
+    "id": "apple",
+    "title": "Bio-ähnlicher Apfel"
+  },
+  {
+    "id": "babyshot",
+    "title": "Baby Shot"
+  },
+  {
+    "id": "banditpeanuts",
+    "title": "Gesalzene Bandit-Erdnüsse"
+  },
+  {
+    "id": "beans",
+    "title": "Bohnenüberraschung in der Dose"
+  },
+  {
+    "id": "beefjerky",
+    "title": "Slaughterhouse Jerky"
+  },
+  {
+    "id": "benedict",
+    "title": "Benedict Pale Ale"
+  },
+  {
+    "id": "blainebourbon",
+    "title": "Blaine County Bourbon"
+  },
+  {
+    "id": "blarneys",
+    "title": "Blarneys Irish Lager"
+  },
+  {
+    "id": "bleederbucket",
+    "title": "Bleeder Bucket"
+  },
+  {
+    "id": "bleedinwhiskey",
+    "title": "Bleedin’ Whiskey"
+  },
+  {
+    "id": "boxwine",
+    "title": "Billiger Kartonwein"
+  },
+  {
+    "id": "bread",
+    "title": "Brotlaib"
+  },
+  {
+    "id": "bs_fries",
+    "title": "Burger Shot Pommes"
+  },
+  {
+    "id": "bs_shake",
+    "title": "Dicker Shake"
+  },
+  {
+    "id": "bs_toy",
+    "title": "Kindermenü-Spielzeug"
+  },
+  {
+    "id": "cb_bbq",
+    "title": "BBQ-Sauce"
+  },
+  {
+    "id": "cb_ranch",
+    "title": "Cluckin’ Ranch"
+  },
+  {
+    "id": "cheesecrackle",
+    "title": "Käse-Crackle-Happen"
+  },
+  {
+    "id": "cheesesticks",
+    "title": "Käsige Brotsticks"
+  },
+  {
+    "id": "cherenkovchips",
+    "title": "Cherenkov Chips"
+  },
+  {
+    "id": "chickenburger",
+    "title": "Cluckin’ Big Burger"
+  },
+  {
+    "id": "chickentenders",
+    "title": "Hähnchenstreifen (6 Stk.)"
+  },
+  {
+    "id": "chickenwings",
+    "title": "Hot Wings (6 Stk.)"
+  },
+  {
+    "id": "chiliadrum",
+    "title": "Mount Chiliad Spiced Rum"
+  },
+  {
+    "id": "cluckinfries",
+    "title": "Cluckin’ Pommes"
+  },
+  {
+    "id": "cluckinsalad",
+    "title": "Cluckin’ Salad"
+  },
+  {
+    "id": "cornuts",
+    "title": "Cornuts Snackmix"
+  },
+  {
+    "id": "coyoteteq",
+    "title": "Coyote Tequila"
+  },
+  {
+    "id": "dancer1",
+    "title": "Fufu"
+  },
+  {
+    "id": "dancer2",
+    "title": "Juliet"
+  },
+  {
+    "id": "dancer3",
+    "title": "Sapphire"
+  },
+  {
+    "id": "dancer4",
+    "title": "Peach"
+  },
+  {
+    "id": "dancer5",
+    "title": "Chastity"
+  },
+  {
+    "id": "dancer6",
+    "title": "Nikki"
+  },
+  {
+    "id": "debonaire",
+    "title": "Debonaire Zigaretten"
+  },
+  {
+    "id": "desperadogold",
+    "title": "Desperado Gold Tequila"
+  },
+  {
+    "id": "doublecheese",
+    "title": "Doppel-Cheese"
+  },
+  {
+    "id": "duschegold",
+    "title": "Dusche Gold"
+  },
+  {
+    "id": "ecola",
+    "title": "eCola"
+  },
+  {
+    "id": "ecola_large",
+    "title": "Große eCola"
+  },
+  {
+    "id": "ecola_light",
+    "title": "eCola Light"
+  },
+  {
+    "id": "ecola2l",
+    "title": "2L eCola"
+  },
+  {
+    "id": "ecolamixer",
+    "title": "eCola Mixer"
+  },
+  {
+    "id": "egochaser",
+    "title": "EgoChaser Riegel"
+  },
+  {
+    "id": "fustercluck",
+    "title": "Fustercluck Menü"
+  },
+  {
+    "id": "garlicbread",
+    "title": "Knoblauchbrot"
+  },
+  {
+    "id": "goldenfizz",
+    "title": "Golden Fizz Champagne"
+  },
+  {
+    "id": "heartstopper",
+    "title": "Herzstopper"
+  },
+  {
+    "id": "libcitygin",
+    "title": "Liberty City Dry Gin"
+  },
+  {
+    "id": "lighter",
+    "title": "Einwegfeuerzeug"
+  },
+  {
+    "id": "logger",
+    "title": "Logger Bier"
+  },
+  {
+    "id": "lotto",
+    "title": "Rubbellos"
+  },
+  {
+    "id": "lspremiumvodka",
+    "title": "LS Premium Vodka"
+  },
+  {
+    "id": "meteorite",
+    "title": "Meteorite Riegel"
+  },
+  {
+    "id": "milk",
+    "title": "2% Milch-ähnliche Milch"
+  },
+  {
+    "id": "moneyshot",
+    "title": "Geldschuss"
+  },
+  {
+    "id": "northernvodka",
+    "title": "Northern Lights Vodka"
+  },
+  {
+    "id": "onionrings",
+    "title": "Zwiebelringe"
+  },
+  {
+    "id": "orangotang",
+    "title": "Orang-O-Tang Saft"
+  },
+  {
+    "id": "pisswasser",
+    "title": "Pißwasser Bier"
+  },
+  {
+    "id": "pisswasser_bs",
+    "title": "Pißwasser (Dose)"
+  },
+  {
+    "id": "pisswasser_light",
+    "title": "Pißwasser Light"
+  },
+  {
+    "id": "pisswasser6",
+    "title": "Pißwasser 6-Pack"
+  },
+  {
+    "id": "pizza_bleeder",
+    "title": "Der Bleeder"
+  },
+  {
+    "id": "pizza_chiliad",
+    "title": "Mount Chiliad Monster"
+  },
+  {
+    "id": "pizza_hawaiian",
+    "title": "Hawaii Spezial"
+  },
+  {
+    "id": "pizza_margherita",
+    "title": "Margherita"
+  },
+  {
+    "id": "pizza_meatlover",
+    "title": "Fleischliebhaber"
+  },
+  {
+    "id": "pizza_mystery",
+    "title": "Mystery-Belag"
+  },
+  {
+    "id": "pizza_pepperoni",
+    "title": "Pepperoni-Festmahl"
+  },
+  {
+    "id": "pizza_pisswasser",
+    "title": "Pißwasser-Pizza"
+  },
+  {
+    "id": "pizza_veggie",
+    "title": "Veggie-Genuss"
+  },
+  {
+    "id": "premojito",
+    "title": "Vorgemixte Mojito-Dose"
+  },
+  {
+    "id": "psandqs",
+    "title": "P’s & Q’s Süßigkeiten"
+  },
+  {
+    "id": "rageenergy",
+    "title": "RaGe Energy Drink"
+  },
+  {
+    "id": "ranchdip",
+    "title": "Ranch-Dip"
+  },
+  {
+    "id": "redwood",
+    "title": "Redwood Zigaretten"
+  },
+  {
+    "id": "rockfordred",
+    "title": "Rockford Hill Red"
+  },
+  {
+    "id": "ronsgin",
+    "title": "Ron’s Reserve Gin"
+  },
+  {
+    "id": "rustydonuts",
+    "title": "Rusty Brown’s Donuts"
+  },
+  {
+    "id": "sa_beef_tower",
+    "title": "Rindfleisch-Turm"
+  },
+  {
+    "id": "sa_heartstopper",
+    "title": "Herzstopper"
+  },
+  {
+    "id": "sa_meat_stack",
+    "title": "Fleischstapel"
+  },
+  {
+    "id": "sa_moneyshot",
+    "title": "Geldschuss"
+  },
+  {
+    "id": "sprunk",
+    "title": "Sprunk"
+  },
+  {
+    "id": "sprunk_bs",
+    "title": "Sprunk (Dose)"
+  },
+  {
+    "id": "sprunk_large",
+    "title": "Große Sprunk"
+  },
+  {
+    "id": "sprunkmix",
+    "title": "Sprunk Mix"
+  },
+  {
+    "id": "vinewoodrose",
+    "title": "Vinewood Hills Rosé"
+  },
+  {
+    "id": "whiskeycola",
+    "title": "Whiskey-Cola-Dose"
+  }
+]
