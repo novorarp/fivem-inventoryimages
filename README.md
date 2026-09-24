@@ -1,5 +1,9 @@
 # 🖼️ Novara Inventory Images
 
+## Türalarmanlage
+
+`images/door_alarm.png` wird vom Spieler-Alarmitem in `nar_utils` verwendet. Es ist eine unveränderte Kopie der bereits vorhandenen `vehicle_alarm.png` mit Steuergerät, Sirene und Sensoren, damit Inventar und Shop das Bild über die Item-ID laden können.
+
 ## Kleidungsitems für ox_inventory
 
 Die 14 neuen `images/clothing_*.png` decken Kopfbedeckung, Maske, Brille, Ohrringe, Oberteil, Unterhemd, Arme/Handschuhe, Hose, Schuhe, Tasche, Kette, Weste, Uhr und Armband ab. Herkunft und Generierung stehen in [NOVARA-CLOTHING-ARTWORK.md](NOVARA-CLOTHING-ARTWORK.md).
