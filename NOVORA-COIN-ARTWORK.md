@@ -2,6 +2,8 @@
 
 `images/coins.png` wurde am 05.10.2026 mit dem integrierten OpenAI-Imagegen-Tool für die Coin-Belohnungen von Novora erzeugt. Das PNG besitzt einen transparenten Hintergrund und enthält keinen festen Betrag. Es eignet sich damit für Community-, Streamer- und andere Coin-Belohnungen.
 
+Format: PNG, 1254 × 1254 Pixel, RGBA mit echtem Alpha-Kanal. Transparenz und vollständige Darstellung wurden geprüft.
+
 Die Bilddatei wird unverändert aus der Generierung übernommen; vorhandene Coin-Itembilder bleiben erhalten. Die Belohnungsanzeige in `nar_monetatsation` verwendet das neue Bild über die öffentliche GitHub-CDN-Adresse:
 
 `https://raw.githubusercontent.com/novorarp/fivem-inventoryimages/main/images/coins.png`
