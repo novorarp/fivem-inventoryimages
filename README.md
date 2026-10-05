@@ -1,5 +1,9 @@
 # 🖼️ Novara Inventory Images
 
+## Barren-Items
+
+Die transparenten PNGs `silver_ingot.png`, `iron_ingot.png`, `copper_ingot.png` und `gold_ingot.png` liegen in `images/` und entsprechen den Item-IDs von ox_inventory. Herkunft, Format und vollständige Prompts stehen in [NOVORA-INGOT-ARTWORK.md](NOVORA-INGOT-ARTWORK.md).
+
 ## Coin-Belohnungen
 
 `images/coins.png` ist das neue, transparent freigestellte Coin-Motiv ohne festen Betrag für `nar_monetatsation`. Es wird für 50, 500 und andere Coin-Belohnungen verwendet. Herkunft und vollständiger Prompt stehen in [NOVORA-COIN-ARTWORK.md](NOVORA-COIN-ARTWORK.md).
