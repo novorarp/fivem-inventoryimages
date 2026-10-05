@@ -1,5 +1,9 @@
 # 🖼️ Novara Inventory Images
 
+## Waffenteile-Items
+
+Die transparenten PNGs `barrel.png`, `grip.png` und `magazine.png` liegen in `images/` und ergänzen Lauf, Griff und leeres Magazin für die gleichnamigen Crafting-Items in ox_inventory. Herkunft, Format und vollständige Prompts stehen in [NOVORA-WEAPON-PARTS-ARTWORK.md](NOVORA-WEAPON-PARTS-ARTWORK.md).
+
 ## Barren-Items
 
 Die transparenten PNGs `silver_ingot.png`, `iron_ingot.png`, `copper_ingot.png` und `gold_ingot.png` liegen in `images/` und entsprechen den Item-IDs von ox_inventory. Herkunft, Format und vollständige Prompts stehen in [NOVORA-INGOT-ARTWORK.md](NOVORA-INGOT-ARTWORK.md).
