@@ -1,5 +1,13 @@
 # 🖼️ Novara Inventory Images
 
+## Coin-Belohnungen
+
+`images/coins.png` ist das neue, transparent freigestellte Coin-Motiv ohne festen Betrag für `nar_monetatsation`. Es wird für 50, 500 und andere Coin-Belohnungen verwendet. Herkunft und vollständiger Prompt stehen in [NOVORA-COIN-ARTWORK.md](NOVORA-COIN-ARTWORK.md).
+
+## Coin-Belohnungen
+
+`images/coins.png` ist das neue, transparent freigestellte Coin-Motiv ohne festen Betrag für `nar_monetatsation`. Es wird für 50, 500 und andere Coin-Belohnungen verwendet. Herkunft und vollständiger Prompt stehen in [NOVORA-COIN-ARTWORK.md](NOVORA-COIN-ARTWORK.md).
+
 ## Türalarmanlage
 
 `images/door_alarm.png` wird vom Spieler-Alarmitem in `nar_utils` verwendet. Es ist eine unveränderte Kopie der bereits vorhandenen `vehicle_alarm.png` mit Steuergerät, Sirene und Sensoren, damit Inventar und Shop das Bild über die Item-ID laden können.
