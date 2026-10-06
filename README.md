@@ -1,5 +1,9 @@
 # 🖼️ Novara Inventory Images
 
+## Sky-Jobs-Items
+
+Die transparenten PNGs für `doj_document`, `job_document`, `doj_law_book`, `sky_briefcase`, `sky_case_folder`, `printer_ink` und `fire_dividing_breeching` liegen in `images/`. Das bestehende Bild für `printer_paper` bleibt erhalten. Herkunft, Format, Prüfsummen und vollständige Prompts stehen in [NOVORA-SKY-JOBS-ARTWORK.md](NOVORA-SKY-JOBS-ARTWORK.md).
+
 ## Schalldämpfer-Items
 
 Die transparenten PNGs `at_suppressor_light.png` und `at_suppressor_heavy.png` liegen in `images/`. Die gleichnamigen Komponenten in ox_inventory erhalten damit jeweils ein eigenes Motiv. Die Bildzuordnung steht in `data/weapons.lua`. Herkunft, Format und vollständige Prompts stehen in [NOVORA-SUPPRESSOR-ARTWORK.md](NOVORA-SUPPRESSOR-ARTWORK.md).
