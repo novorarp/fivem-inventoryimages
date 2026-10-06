@@ -1,5 +1,9 @@
 # 🖼️ Novara Inventory Images
 
+## Schalldämpfer-Items
+
+Die transparenten PNGs `at_suppressor_light.png` und `at_suppressor_heavy.png` liegen in `images/`. Die gleichnamigen Komponenten in ox_inventory erhalten damit jeweils ein eigenes Motiv. Die Bildzuordnung steht in `data/weapons.lua`. Herkunft, Format und vollständige Prompts stehen in [NOVORA-SUPPRESSOR-ARTWORK.md](NOVORA-SUPPRESSOR-ARTWORK.md).
+
 ## Waffenteile-Items
 
 Die transparenten PNGs `barrel.png`, `grip.png` und `magazine.png` liegen in `images/` und ergänzen Lauf, Griff und leeres Magazin für die gleichnamigen Crafting-Items in ox_inventory. Herkunft, Format und vollständige Prompts stehen in [NOVORA-WEAPON-PARTS-ARTWORK.md](NOVORA-WEAPON-PARTS-ARTWORK.md).
