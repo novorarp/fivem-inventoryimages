@@ -1,5 +1,11 @@
 # 🖼️ Novara Inventory Images
 
+## Flughafen-Items: shmann airport
+
+Die 14 bisher fehlenden Flughafenbilder liegen unter `images/sw_*.png`: Reisepass, Bordkarte, Gepäckschein, Handgepäck-Trolley, großer Koffer, Wasserflasche, Taschenmesser, Feuerzeug, Powerbank, Souvenir-Schneekugel, Geldbündel, verdächtiges Paket, Spielzeugpistole und Kontrollhinweis. Sie wurden mit dem integrierten OpenAI-Imagegen-Tool als realistische GTA-V-/FiveM-Inventargegenstände erstellt und unverändert übernommen. Der Reisepass ist als geschlossenes Reisepass-Heft gestaltet.
+
+Alle 14 PNGs sind quadratisch mit 1254 × 1254 Pixeln und besitzen einen transparenten RGBA-Hintergrund. Die Dateinamen entsprechen exakt den Item-IDs; zusätzliche `client.image`-Einträge sind nicht nötig. Damit sind im lokalen Bildbestand alle 84 unterschiedlichen Items des Abschnitts `shmann airport` abgedeckt. Vollständige Prompts, Herkunft, Formate und SHA-256-Prüfsummen stehen in [airport_artwork.json](airport_artwork.json). Die CDN-Adressen verwenden diese Dateien, sobald sie auf dem Branch `main` veröffentlicht sind.
+
 ## Sky-Jobs-Items
 
 Die transparenten PNGs für `doj_document`, `job_document`, `doj_law_book`, `sky_briefcase`, `sky_case_folder`, `printer_ink` und `fire_dividing_breeching` liegen in `images/`. Das bestehende Bild für `printer_paper` bleibt erhalten. Herkunft, Format, Prüfsummen und vollständige Prompts stehen in [NOVORA-SKY-JOBS-ARTWORK.md](NOVORA-SKY-JOBS-ARTWORK.md).
